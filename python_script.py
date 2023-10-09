@@ -8,5 +8,3 @@ print(b)
 def leo(a, b, c):
         print(a, b, c)
         return false
-
-
