@@ -5,5 +5,6 @@ print(a)
 b=np.tan(np.pi/2)
 print(b)
 
-def funct(c):
-    print(c)
+def leo(a, b, c):
+        print(a, b, c)
+        return false
